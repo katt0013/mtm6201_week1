@@ -1,0 +1,49 @@
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:rgb(92, 76, 56);
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    
+  }
+
+  h1 {
+    font-size: 24px;
+    background-color:rgb(94, 95, 76);
+    margin-bottom: 10px;
+  }
+
+  #pic-jahadh {
+    max-width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+    float: left;
+    padding-right: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+  }
+
+  .des-list {
+    margin-bottom: 20px;
+    background-color:rgb(94, 95, 76); ;
+    padding: 10px;
+
+  }
+
+  dt {
+    font-weight: bolder;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    font-size: 1.15rem;
+  }
+
+  dd {
+    margin-left: 0;
+    padding-bottom: 5px;
+    
+  }
